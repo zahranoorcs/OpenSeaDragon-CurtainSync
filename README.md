@@ -1,0 +1,2 @@
+# OpenSeaDragon-CurtainSync
+Navigator Issue
